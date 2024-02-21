@@ -11,8 +11,6 @@
 
 ## Step 3 - Do I have IntelliJ IDEA Community Edition installed?
 
-* IDE: IntelliJ IDEA Community Edition
-
 ## Step 4 - How do I verify IntelliJ IDEA Community Edition is installed and working?
 
 ## Step 5 - Do I have maven installed and configured?
