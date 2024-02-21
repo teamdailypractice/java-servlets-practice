@@ -15,4 +15,4 @@ mkdir -p ${JAVA_PACKAGE_DIR} ${WEB_APP_DIR}
 
 touch ${PROJECT_DIR}/.gitignore ${PROJECT_DIR}/pom.xml
 touch ${WEB_APP_DIR}/web.xml
-touch ${JAVA_PACKAGE_DIR}/HelloWorldServlet.java
+touch ${JAVA_PACKAGE_DIR}/HelloworldServlet.java
